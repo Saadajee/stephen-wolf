@@ -24,5 +24,23 @@ Built with Streamlit for a responsive, cyberpunk-inspired UI, it features real-t
 
 1. Clone the repo
 2. Create `.streamlit/secrets.toml` with your Groq API key:
-   ```toml
+   ```
    GROQ_API_KEY = "gsk_your_key_here"
+   ```
+3. Install dependencies:
+   ```
+   pip install streamlit groq
+   ```
+   Run:
+   ```
+   streamlit run app.py
+   ```
+
+## Deployment
+Deploy instantly on Streamlit Community Cloud:
+
+- Connect your GitHub repo
+- Set GROQ_API_KEY in app secrets
+- Main file: app.py
+
+Enjoy the adaptive intelligence!
