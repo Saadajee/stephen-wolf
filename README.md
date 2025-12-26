@@ -1,6 +1,6 @@
 # Stephen Wolf
 
-**Stephen Wolf** is a sleek, futuristic web-based AI chat interface powered by Groq's ultra-fast LLMs. Switch between 10 specialized professional personas — from Mathematician to Financial Analyst — each strictly focused on its domain for precise, role-bound responses.
+**Stephen Wolf** is a sleek, futuristic web-based AI chat interface powered by Groq's ultra-fast LLMs. Switch between 10 specialized professional personas, from Mathematician to Financial Analyst, each strictly focused on its domain for precise, role-bound responses.
 
 Built with Streamlit for a responsive, cyberpunk-inspired UI, it features real-time streaming replies, session management, JSON export, and seamless mobile/desktop experience.
 
